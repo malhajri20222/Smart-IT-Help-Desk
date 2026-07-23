@@ -184,7 +184,7 @@ This project demonstrates practical experience in:
 
 ## 👨‍💻 Author
 
-**H**
+**Monerah**
 
 Bachelor of Computer Science
 
