@@ -93,15 +93,14 @@ Smart-IT-Help-Desk/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Smart-IT-Help-Desk.git
-```
+git clone https://github.com/malhajri20222/Smart-IT-Help-Desk.git```
 
 ### 2. Move the project
 
 Copy the project folder to:
 
 ```text
-xampp/htdocs/
+MAMP / XAMPP/htdocs/
 ```
 
 ### 3. Create Database
@@ -111,7 +110,7 @@ Open **phpMyAdmin**
 Create a database named:
 
 ```text
-helpdesk
+it-helpdesk
 ```
 
 ### 4. Import Database
@@ -184,7 +183,12 @@ This project demonstrates practical experience in:
 
 ## 👨‍💻 Author
 
-**Monerah**
+**Monerah Alhajri**
+
+Bachelor of Computer Science
+
+GitHub:
+https://github.com/malhajri20222
 
 Bachelor of Computer Science
 
